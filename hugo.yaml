@@ -1,13 +1,14 @@
 baseURL: "https://firstdemohugo.netlify.app/"
-title: demo hugo
+title: Mie CHang Su
 theme: PaperMod
+
 
 params:
   homeInfoParams:
-    Title: "hello there"
-    Content: This is a demo site for PaperMod theme
+    Title: "فسيفساء الفكر"
+    Content: مساحة حرة للتعبير عن الأفكار والمشاعر و الثرثرة وقتما احببت
   socialIcons:
-    - name: "twitter"
+    - name: "x"
       url: "https://x.com/MieSuNour"
     - name: "instagram" 
       url: "https://www.instagram.com/miechangsunf/"
@@ -25,18 +26,27 @@ params:
 
   showShareButtons: true
 
+  assets:
+        #disableHLJS: true
+        favicon: "/assets/favicon.ico"
+        favicon16x16: "/assets/favicon-16x16.png"
+        favicon32x32: "/assets/favicon-32x32.png"
+        appleTouchIcon: "/assets/apple-touch-icon.png"
+          
+
+
   
 menu:
   main:
     - identifier: categories
-      name: Categories
+      name: تصنيفات
       url: /categories/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: وسوم
       url: /tags/
       weight: 20
     - identifier: archives
-      name: Archives
+      name: أرشيف
       url: /archives/
       weight: 20

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Css on demo hugo</title>
-    <link>/tags/css/</link>
-    <description>Recent content in Css on demo hugo</description>
+    <title>Css on Mie CHang Su</title>
+    <link>http://localhost:1313/tags/css/</link>
+    <description>Recent content in Css on Mie CHang Su</description>
     <generator>Hugo -- 0.147.1</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Wed, 07 May 2025 06:13:59 +0100</lastBuildDate>
-    <atom:link href="/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Wed, 07 May 2025 06:13:59 +0100</pubDate>
-      <guid>/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>&lt;h1 id=&#34;this-heading&#34;&gt;this heading&lt;/h1&gt;
 &lt;h2 id=&#34;ghis-2&#34;&gt;ghis 2&lt;/h2&gt;
-&lt;p&gt;bla bla&lt;/p&gt;</description>
+&lt;p&gt;bla bla
+this is not just bla bla bla&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

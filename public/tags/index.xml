@@ -1,25 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on demo hugo</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on demo hugo</description>
+    <title>Tags on Mie CHang Su</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Mie CHang Su</description>
     <generator>Hugo -- 0.147.1</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 May 2025 06:13:59 +0100</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 07 May 2025 12:26:48 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>كوريا</title>
+      <link>http://localhost:1313/tags/%D9%83%D9%88%D8%B1%D9%8A%D8%A7/</link>
+      <pubDate>Wed, 07 May 2025 12:26:48 +0100</pubDate>
+      <guid>http://localhost:1313/tags/%D9%83%D9%88%D8%B1%D9%8A%D8%A7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>مراجعة</title>
+      <link>http://localhost:1313/tags/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/</link>
+      <pubDate>Wed, 07 May 2025 12:26:48 +0100</pubDate>
+      <guid>http://localhost:1313/tags/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Css</title>
-      <link>/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Wed, 07 May 2025 06:13:59 +0100</pubDate>
-      <guid>/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>/tags/html/</link>
+      <link>http://localhost:1313/tags/html/</link>
       <pubDate>Wed, 07 May 2025 06:13:59 +0100</pubDate>
-      <guid>/tags/html/</guid>
+      <guid>http://localhost:1313/tags/html/</guid>
       <description></description>
     </item>
   </channel>
