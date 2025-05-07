@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://gleeful-starlight-59695b.netlify.app/"
 languageCode: en-us
 title: demo hugo
 theme: PaperMod
