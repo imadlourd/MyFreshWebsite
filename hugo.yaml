@@ -1,12 +1,13 @@
 baseURL: "https://firstdemohugo.netlify.app/"
 title: Mie CHang Su
 theme: PaperMod
+defaultContentLanguage: ar
 
 
 params:
   homeInfoParams:
     Title: "فسيفساء الفكر"
-    Content: مساحة حرة للتعبير عن الأفكار والمشاعر و الثرثرة وقتما احببت
+    Content: مساحة حرة للتعبير عن أفكاري مشاعري و الثرثرة وقتما احببت
   socialIcons:
     - name: "x"
       url: "https://x.com/MieSuNour"
@@ -21,8 +22,11 @@ params:
     linkFullImages: true
   
   showReadingTime: true
+  ShowToc: false
+  ShowBreadCrumbs: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
 
-  showWordCount: true
 
   showShareButtons: true
 

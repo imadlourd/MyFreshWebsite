@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="ar" dir="auto">
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,7 +19,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/third/">
+<link rel="alternate" hreflang="ar" href="http://localhost:1313/posts/third/">
 <noscript>
     <style>
         #theme-toggle,
@@ -125,7 +125,7 @@
     <h1 class="post-title entry-hint-parent">
       نحو يقضة مستحيلة
     </h1>
-    <div class="post-meta"><span title='2025-05-07 12:28:23 +0100 +01'>May 7, 2025</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;257 words
+    <div class="post-meta"><span title='2025-05-07 12:28:23 +0100 +01'>مايو 7, 2025</span>&nbsp;·&nbsp;دقيقتان
 
 </div>
   </header> 
@@ -155,6 +155,14 @@
       <li><a href="http://localhost:1313/tags/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/">مراجعة</a></li>
       <li><a href="http://localhost:1313/tags/%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86/">اليابان</a></li>
     </ul>
+<nav class="paginav">
+  <a class="next" href="http://localhost:1313/posts/second/">
+    <span class="title">التالي »</span>
+    <br>
+    <span>رحلة انعتاق</span>
+  </a>
+</nav>
+
 
 <ul class="share-buttons">
     <li>
@@ -295,6 +303,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'نسخ الكود';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'تم النسخ!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'نسخ الكود';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 
