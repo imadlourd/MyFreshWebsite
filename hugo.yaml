@@ -15,8 +15,8 @@ params:
       url: "https://x.com/MieSuNour"
     - name: "instagram" 
       url: "https://www.instagram.com/miechangsunf/"
-    - name: "youtube"
-      url: "https://www.youtube.com/@ImadSu"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/@ImadSu"
     - name: "tiktok"
       url: "https://www.tiktok.com/@miesunour"
   
