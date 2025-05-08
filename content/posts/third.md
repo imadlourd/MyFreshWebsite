@@ -27,4 +27,14 @@ categories: ["أدب"]
 
 
 النسخة الصوتية من الرواية كاملة :
-[![Watch the video](https://img.youtube.com/vi/z-nl7u5yUmk/default.jpg)](https://youtu.be/z-nl7u5yUmk)
+[![Watch the video](https://img.youtube.com/vi/z-nl7u5yUmk/maxresdefault.jpg)](https://youtu.be/z-nl7u5yUmk)
+
+<iframe
+  width="640"
+  height="480"
+  src="https://www.youtube.com/embed/UmX4kyB2wfg"
+  frameborder="0"
+  allow="autoplay; encrypted-media"
+  allowfullscreen
+>
+</iframe>
