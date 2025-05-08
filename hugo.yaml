@@ -40,6 +40,9 @@ params:
         appleTouchIcon: "/assets/apple-touch-icon.png"
           
 
+analytics:
+  provider: google-analytics
+  id: G-D0NNHDXE3N  # Replace with your Measurement ID
 
   
 menu:
