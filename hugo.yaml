@@ -6,7 +6,7 @@ defaultContentLanguage: ar
 
 params:
   comments: true
-  
+  env: production
   homeInfoParams:
     Title: "فسيفساء الفكر"
     Content: مساحة حرة للتعبير عن أفكاري مشاعري و الثرثرة وقتما احببت
