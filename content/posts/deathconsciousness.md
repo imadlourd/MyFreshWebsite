@@ -108,7 +108,9 @@ categories: ["موسيقى"]
 
 هل سبق لك الاستماع إلى Deathconsciousness؟ ما هي أكثر أغنية أثرت فيك؟ هل تعتقد أن قصة أنطيوكوس تحمل معنى أعمق أم أنها مجرد خدعة سردية؟ شاركنا رأيك في التعليقات!
 
-[^1]: [Have a Nice Life – Deathconsciousness (2008)، ألبوم متاح على منصات البث.](https://open.spotify.com/album/1SP3FfoB74hoginJJAom6J?si=tHNDNBWeRP-BWYOEFuJ7gw)
-[^2]:  [HAVE A NICE LIFE | deathconsciousness | documentary](https://youtu.be/_qTiGNGHOpU?si=EaxNisAHr64-SIQB)
-[^3]: [deathconsciousness booklet pdf](https://www.are.na/block/1625029)
+----
+
+*[Have a Nice Life – Deathconsciousness (2008)](https://open.spotify.com/album/1SP3FfoB74hoginJJAom6J?si=tHNDNBWeRP-BWYOEFuJ7gw)*  
+*[HAVE A NICE LIFE | deathconsciousness | documentary](https://youtu.be/_qTiGNGHOpU?si=EaxNisAHr64-SIQB)*  
+*[deathconsciousness booklet pdf](https://www.are.na/block/1625029)*  
 
