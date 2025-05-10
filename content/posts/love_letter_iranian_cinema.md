@@ -5,7 +5,6 @@ title: 'رسالة عشق في السينما الإيرانية'
 cover: 
     image: iranfilm.png
     alt: 'love letter in iranian cinema'
-    capti
 tags: ["أفلام", "ايران"]
 categories: ["سينما"]
 ---
