@@ -12,7 +12,7 @@ categories: ["موسيقى"]
 
 في 24 يناير 2008، صدر ألبوم [**Deathconsciousness**](https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM?si=6EUYAMstRZOwy58ebl0K0g)  كأحد أعمال الثنائي الأميركي[ Have a Nice Life](https://en.wikipedia.org/wiki/Have_a_Nice_Life)، تم تسجيل هذا الألبوم المزدوج بإمكانات متواضعة و ميزانية لا تتجاوز الألف دولار، لكنه تجاوز كل التوقعات ليصيح أيثونة في عالم الموسيقى المستقلة. الألبوم عبارة عن رحلة صوتية في أعماق العدم و الوجود، ولد من رحم سنوات من العمل و البحث عن صوت يعكس إحساسًا عميقًا باليأس و الألم، و لكنه في الوقت نفسه يحمل جمالًا خفيًا ومأسواويًا.
 
-![Have A Nice Life - Deathconsciousuess album cover](https://f4.bcbits.com/img/a3785639980_10.jpg)*Have A Nice Life - Deathconsciousuess*
+![Have A Nice Life - Deathconsciousness album cover](https://f4.bcbits.com/img/a3785639980_10.jpg)*Have A Nice Life - Deathconsciousuess*
 
 ---
 # ألبوم من العدم: تسجيلات منزلية و رسالة كونية
